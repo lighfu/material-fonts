@@ -1,6 +1,9 @@
 From https://github.com/material-icons/material-icons-font.git
 
 # ibisPaint用 material-icons
+
+![icons](ibis.png)
+
 このレポジトリの【コード】から【ダウンロード】でibisPaintにフォントを追加できます。
 
 インポートにはある程度時間がかかることがあります。
